@@ -1,16 +1,19 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: ai-chatflow
+  role: Developer
+  duration: 2023
+  url: "https://github.com/nicksome168/ai-chatflow"
+  description: A <b>cloud-native</b> full-stack group chat web app deployed on AWS EKS that uses React.js, Express.js, socket.io, Lambda, DynamoDB, and OpenAI API to provide group chat and AI summarization feature.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: eCommerce backend
+  role: Developer
+  duration: 2023
+  url: "https://github.com/CSCI-GA-2820-SU23-001/orders"
+  description: A microservice-based backend for eCommerce shopping cart with Flask and PostgreSQL. Automate unit (PyUnit, Green) and integration (Selenium, Behave) tests with 95% coverage using GitHub actions.
+
+- project: Independent Study in Deep Learning for NLP
+  role: Developer
+  duration: 2021
+  url: "https://github.com/nicksome168/nlp-research"
+  description: An NLP research that uses MacBERT model to analyze medical dialogue and predict patient outcomes. This was awarded 1st place (1/386) in the Medical Dialog Analysis challenge at the 2021 AI CUP Competition.
