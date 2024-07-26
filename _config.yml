@@ -48,7 +48,8 @@ resume_social_links:
 # resume_github_url: "https://github.com/nicksome168"
 # resume_linkedin_url: "https://www.linkedin.com/in/nick-chao"
 # resume_medium_url: "https://medium.com/@nicksome.yc"
-resume_print_social_links: true
+# resume_print_social_links: true
+google_analytics: G-1L72ZZB9X3
 
 # Design settings
 resume_theme: default
